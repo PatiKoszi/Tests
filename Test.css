@@ -1,0 +1,16 @@
+.Inportant{
+    color:yellow;
+}
+
+p {
+    color: red;
+}
+
+li {
+    color:#000000
+}
+
+#identifikaror{
+    color: blue;
+    background-color: aqua;
+}
